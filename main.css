@@ -1,0 +1,14 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+}
+
+:link, :visited {
+    color: #000;
+    text-decoration: dotted underline;
+}
+
+:hover {
+    color: #000;
+    text-decoration: solid underline;
+}
